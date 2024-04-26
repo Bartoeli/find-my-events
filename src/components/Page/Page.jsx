@@ -1,6 +1,6 @@
 import React from "react";
 import bgImg from "../../assets/pageBg.jpg";
-import { NavBar } from "../NavBar/NavBar.jsx";
+import NavBar from "../NavBar/NavBar.jsx";
 
 export const Page = ({ children }) => {
   return (
@@ -12,10 +12,13 @@ export const Page = ({ children }) => {
         height: "100vh",
         backgroundImage: `url(${bgImg})`,
         backgroundSize: "cover",
+        backgroundClip: "fixed",
       }}
     >
-      <NavBar />
-      {children}
+      <div style={{ height: "100%", width: "100%", overflowY: "scroll" }}>
+        <NavBar />
+        <div className="p-4">{children}</div>
+      </div>
     </div>
   );
 };
