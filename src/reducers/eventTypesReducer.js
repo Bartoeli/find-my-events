@@ -1,7 +1,7 @@
 import {
   EVENT_TYPES_ERROR,
   GET_EVENT_TYPES,
-  SET_CURRENT,
+  SET_LOADING,
 } from "../actions/types";
 
 const initialState = {
@@ -19,7 +19,7 @@ const eventTypesReducer = (state = initialState, action) => {
         eventTypes: action.payload,
         loading: false,
       };
-    case SET_CURRENT:
+    case SET_LOADING:
       return {
         ...state,
         loading: true,

@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": 1,
+      "id": "1",
       "ownerId": 1,
       "locationId": 1,
       "eventTypeId": 1,
@@ -10,7 +10,7 @@
       "description": "Immerse yourself in the vibrant music scene of Prague at this electrifying concert. From soulful melodies to infectious rhythms, this event promises to uplift your spirits and leave you dancing all night long. Whether you're a music enthusiast or just looking for a fun night out, this concert is not to be missed."
     },
     {
-      "id": 2,
+      "id": "2",
       "ownerId": 2,
       "locationId": 2,
       "eventTypeId": 1,
@@ -19,7 +19,7 @@
       "description": "Experience the timeless allure of jazz at this intimate gathering in Oslo. Let the smooth sounds of saxophones and trumpets transport you to a bygone era of sophistication and elegance. Whether you're a jazz aficionado or simply curious to explore new musical horizons, this night promises to be a memorable one."
     },
     {
-      "id": 3,
+      "id": "3",
       "ownerId": 3,
       "locationId": 3,
       "eventTypeId": 1,
@@ -28,7 +28,7 @@
       "description": "Get ready to rock out at this high-energy concert in the heart of Paris. With electrifying performances and adrenaline-pumping beats, this event is sure to satisfy your inner rockstar. Whether you're a die-hard fan or just looking for a night of excitement, this concert promises to deliver an unforgettable experience."
     },
     {
-      "id": 4,
+      "id": "4",
       "ownerId": 4,
       "locationId": 4,
       "eventTypeId": 1,
@@ -37,7 +37,7 @@
       "description": "Indulge in the sublime beauty of classical music at this enchanting performance in London. From delicate sonatas to majestic symphonies, this event showcases the timeless elegance and sophistication of the genre. Whether you're a seasoned aficionado or new to the world of classical music, this evening promises to inspire and captivate."
     },
     {
-      "id": 5,
+      "id": "5",
       "ownerId": 5,
       "locationId": 5,
       "eventTypeId": 1,
@@ -46,7 +46,7 @@
       "description": "Get ready to dance the night away at this electrifying electro dance party in Berlin. With pulsating beats and immersive visuals, this event promises to transport you to a world of euphoria and excitement. Whether you're a seasoned raver or just looking for a night of fun, this party is not to be missed."
     },
     {
-      "id": 6,
+      "id": "6",
       "ownerId": 3,
       "locationId": 1,
       "eventTypeId": 2,
@@ -55,7 +55,7 @@
       "description": "Step into the world of kings, queens, and star-crossed lovers at this captivating Shakespearean play in Prague. With gripping drama and timeless themes, this performance brings the Bard's words to life in all their glory. Whether you're a Shakespeare enthusiast or simply love a good story, this play promises to transport you to another time and place."
     },
     {
-      "id": 7,
+      "id": "7",
       "ownerId": 4,
       "locationId": 2,
       "eventTypeId": 2,
@@ -64,7 +64,7 @@
       "description": "Laugh until your sides ache at this uproarious comedy show in Oslo. With a lineup of talented comedians delivering non-stop laughs, this event is guaranteed to leave you in stitches. Whether you prefer clever wit or slapstick humor, there's something for everyone at this hilarious night of comedy."
     },
     {
-      "id": 8,
+      "id": "8",
       "ownerId": 5,
       "locationId": 3,
       "eventTypeId": 2,
@@ -73,7 +73,7 @@
       "description": "Prepare to be moved by the raw emotion and powerful storytelling of this gripping drama performance in Paris. With stellar performances and compelling narratives, this event explores the depths of the human experience. Whether you're a theatre enthusiast or simply appreciate great storytelling, this performance promises to leave a lasting impression."
     },
     {
-      "id": 9,
+      "id": "9",
       "ownerId": 1,
       "locationId": 4,
       "eventTypeId": 2,
@@ -82,7 +82,7 @@
       "description": "Experience the magic of musical theatre at this enchanting performance in London. With captivating songs, dazzling choreography, and larger-than-life characters, this show promises to transport you to a world of fantasy and imagination. Whether you're a musical aficionado or simply love a good spectacle, this performance is not to be missed."
     },
     {
-      "id": 10,
+      "id": "10",
       "ownerId": 2,
       "locationId": 5,
       "eventTypeId": 2,
@@ -91,7 +91,7 @@
       "description": "Experience the thrill of spontaneous comedy at this uproarious improvisation night in Berlin. With quick wit and clever banter, performers create hilarious scenes on the spot, guaranteeing non-stop laughter. Whether you're a fan of improv comedy or just looking for a fun night out, this event promises to deliver plenty of laughs and surprises."
     },
     {
-      "id": 11,
+      "id": "11",
       "ownerId": 5,
       "locationId": 1,
       "eventTypeId": 3,
@@ -100,7 +100,7 @@
       "description": "Explore the cutting-edge world of modern art at this thought-provoking exhibition in Prague. Featuring innovative works from emerging artists, this event pushes the boundaries of creativity and challenges conventional notions of art. Whether you're an art enthusiast or simply curious to see the latest trends, this exhibition promises to inspire and provoke."
     },
     {
-      "id": 12,
+      "id": "12",
       "ownerId": 1,
       "locationId": 2,
       "eventTypeId": 3,
@@ -109,7 +109,7 @@
       "description": "Marvel at the beauty and craftsmanship of sculptures at this elegant showcase in Oslo. From classical masterpieces to contemporary creations, this exhibition celebrates the art of three-dimensional form. Whether you're a seasoned art collector or simply appreciate fine craftsmanship, this showcase promises to captivate and inspire."
     },
     {
-      "id": 13,
+      "id": "13",
       "ownerId": 4,
       "locationId": 3,
       "eventTypeId": 3,
@@ -118,7 +118,7 @@
       "description": "Step into the world of Impressionism at this immersive exhibition in Paris. Discover the vibrant colors and fleeting moments captured by iconic artists of the movement. Whether you're an art connoisseur or simply appreciate beauty in all its forms, this exhibition promises to transport you to the picturesque landscapes and bustling streets of 19th-century Paris."
     },
     {
-      "id": 14,
+      "id": "14",
       "ownerId": 3,
       "locationId": 4,
       "eventTypeId": 3,
@@ -127,7 +127,7 @@
       "description": "Experience the freedom of expression at this dynamic showcase of abstract art in London. From bold brushstrokes to experimental techniques, this exhibition challenges traditional notions of art and invites viewers to see the world in new ways. Whether you're an art enthusiast or simply curious to explore new artistic horizons, this showcase promises to inspire and provoke."
     },
     {
-      "id": 15,
+      "id": "15",
       "ownerId": 3,
       "locationId": 5,
       "eventTypeId": 3,
@@ -136,7 +136,7 @@
       "description": "Capture the beauty of the world through the lens of talented photographers at this inspiring exhibition in Berlin. From breathtaking landscapes to intimate portraits, this event showcases the art of photography in all its glory. Whether you're a photography enthusiast or simply appreciate stunning imagery, this exhibition promises to delight and inspire."
     },
     {
-      "id": 16,
+      "id": "16",
       "ownerId": 2,
       "locationId": 1,
       "eventTypeId": 4,
@@ -145,7 +145,7 @@
       "description": "Experience the thrill of live soccer at this exciting match in Prague. Cheer for your favorite team as they battle it out on the field for glory and victory. Whether you're a die-hard fan or just looking for a fun day out, this match promises plenty of excitement and nail-biting moments."
     },
     {
-      "id": 17,
+      "id": "17",
       "ownerId": 3,
       "locationId": 2,
       "eventTypeId": 4,
@@ -154,7 +154,7 @@
       "description": "Watch world-class athletes compete at this prestigious tennis tournament in Oslo. From powerful serves to precise volleys, this event showcases the skill and athleticism of the players. Whether you're a tennis enthusiast or simply love watching sports, this tournament promises plenty of thrills and excitement."
     },
     {
-      "id": 18,
+      "id": "18",
       "ownerId": 4,
       "locationId": 3,
       "eventTypeId": 4,
@@ -163,7 +163,7 @@
       "description": "Experience the excitement of cricket at this thrilling match in Paris. Cheer for your team as they face off against their rivals in a battle of skill and strategy. Whether you're a cricket enthusiast or simply love watching sports, this match promises plenty of action and suspense."
     },
     {
-      "id": 19,
+      "id": "19",
       "ownerId": 5,
       "locationId": 4,
       "eventTypeId": 4,
@@ -172,7 +172,7 @@
       "description": "Get ready for a fast-paced and physical rugby game in London. Brace yourself for bone-crunching tackles and breathtaking tries as teams compete for supremacy on the field. Whether you're a rugby enthusiast or simply love watching sports, this game promises plenty of excitement and adrenaline-pumping moments."
     },
     {
-      "id": 20,
+      "id": "20",
       "ownerId": 1,
       "locationId": 5,
       "eventTypeId": 4,
@@ -181,7 +181,7 @@
       "description": "Witness the speed and agility of athletes at this thrilling athletics meet in Berlin. From sprints to jumps, this event showcases the talent and dedication of competitors as they strive for victory. Whether you're an athletics enthusiast or simply love watching sports, this meet promises plenty of excitement and record-breaking performances."
     },
     {
-      "id": 21,
+      "id": "21",
       "ownerId": 4,
       "locationId": 1,
       "eventTypeId": 5,
@@ -190,7 +190,7 @@
       "description": "Learn the fundamentals of coding at this hands-on workshop in Prague. Whether you're a beginner or an experienced programmer, this event offers valuable insights and practical skills to enhance your coding journey. From HTML to JavaScript, this workshop covers a range of topics to help you become a proficient coder. Join us and unlock your full coding potential!"
     },
     {
-      "id": 22,
+      "id": "22",
       "ownerId": 5,
       "locationId": 2,
       "eventTypeId": 5,
@@ -199,7 +199,7 @@
       "description": "Kickstart your career in web development at this intensive bootcamp in Oslo. Whether you're a novice coder or looking to expand your skills, this event offers comprehensive training in front-end and back-end development. From building responsive websites to deploying scalable applications, this bootcamp equips you with the tools and knowledge to succeed in the fast-paced world of web development."
     },
     {
-      "id": 23,
+      "id": "23",
       "ownerId": 3,
       "locationId": 3,
       "eventTypeId": 5,
@@ -208,7 +208,7 @@
       "description": "Explore the fascinating field of data science at this informative seminar in Paris. From predictive analytics to machine learning, this event covers the latest trends and technologies shaping the future of data-driven decision making. Whether you're a data enthusiast or simply curious about the power of data, this seminar promises to broaden your horizons and inspire new ideas."
     },
     {
-      "id": 24,
+      "id": "24",
       "ownerId": 2,
       "locationId": 4,
       "eventTypeId": 5,
@@ -217,82 +217,90 @@
       "description": "Master the art of user interface and user experience design at this hands-on workshop in London. Whether you're a budding designer or seasoned professional, this event offers practical insights and techniques to create engaging and intuitive digital experiences. From wireframing to prototyping, this workshop covers the entire design process to help you create products that delight users and drive business success."
     },
     {
-      "id": 25,
+      "id": "25",
       "ownerId": 1,
       "locationId": 5,
       "eventTypeId": 5,
       "title": "Cybersecurity Conference in Berlin",
       "date": "2025-11-29T14:00:00",
       "description": "Stay ahead of emerging threats and trends at this cutting-edge cybersecurity conference in Berlin. From ransomware to phishing attacks, this event covers the latest challenges facing cybersecurity professionals today. Whether you're a seasoned expert or just starting your career, this conference offers valuable insights and networking opportunities to help you protect your organization and enhance your cybersecurity posture."
+    },
+    {
+      "id": "d0ec",
+      "title": "Test Event 1",
+      "description": "This is my first testing event.",
+      "date": "2024-04-30T16:43:00",
+      "locationId": "4",
+      "ownerId": "1"
     }
   ],
   "locations": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Prague"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Oslo"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Paris"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "London"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Berlin"
     }
   ],
   "eventTypes": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Music"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Theatre"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Art"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Sport"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Education"
     }
   ],
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "email": "user1@example.com",
       "name": "John Smith"
     },
     {
-      "id": 2,
+      "id": "2",
       "email": "user2@example.com",
       "name": "Emma Johnson"
     },
     {
-      "id": 3,
+      "id": "3",
       "email": "user3@example.com",
       "name": "Michael Brown"
     },
     {
-      "id": 4,
+      "id": "4",
       "email": "user4@example.com",
       "name": "Sarah Davis"
     },
     {
-      "id": 5,
+      "id": "5",
       "email": "user5@example.com",
       "name": "Alex Wilson"
     }

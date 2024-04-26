@@ -19,6 +19,7 @@ export const getUsers = () => async (dispatch) => {
 };
 
 export const setCurrentUser = (user) => async (dispatch) => {
+  console.log("setCurrentUser", user);
   dispatch({
     type: SET_CURRENT,
     payload: user,

@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { Page } from "../../components/Page/Page";
-import { EventItem } from "../../components/EventItem/EventItem";
+import EventItem from "../../components/EventItem/EventItem";
 import { Button, Spinner } from "react-bootstrap";
 import { connect, useSelector } from "react-redux";
 import PropTypes from "prop-types";

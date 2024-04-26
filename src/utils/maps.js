@@ -5,3 +5,19 @@ export const eventTypeColorMap = {
   4: "#0B032D",
   5: "#FC7753",
 };
+
+export const usersMap = {
+  1: "John Smith",
+  2: "Emma Johnson",
+  3: "Michael Brown",
+  4: "Sarah Davis",
+  5: "Alex Wilson",
+};
+
+export const locationsMap = {
+  1: "Prague",
+  2: "Oslo",
+  3: "Paris",
+  4: "London",
+  5: "Berlin",
+};
