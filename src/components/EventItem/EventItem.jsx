@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import { Trash3 } from "react-bootstrap-icons";
 import { connect, useSelector } from "react-redux";
 
-import { eventTypeColorMap } from "../../utils/maps";
+import { eventTypeColorMap, locationsMap } from "../../utils/maps";
 import { formatISODateShort } from "../../utils/dateFormatter";
 import { deleteEvent } from "../../actions/eventActions";
 import EventDetailsModal from "../EventDetailsModal/EventDetailsModal";
@@ -68,7 +68,7 @@ const EventItem = ({ event, deleteEvent }) => {
               className="badge rounded-pill text-dark"
               style={{ backgroundColor: "#E5E1EE" }}
             >
-              {event.place}
+              {locationsMap[event.locationId]}
             </span>
           </div>
         </div>
